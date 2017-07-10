@@ -1,2 +1,2 @@
 # clusterTPT
-Reading guid for using cluster at TPT
+Reading guide for using cluster at TPT
